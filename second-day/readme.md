@@ -32,35 +32,4 @@
 ## ES6 ##
 
 -   class语法(类): class的实现是在prototype的基础上的一个语法糖
-
-    function Person(name) {
-
-        this.name = name || 'popinstyle';
-
-    }
-
-    Person.prototype.showName = function () {
-
-        console.log(this.name);
-
-        return this;
-
-    }
-
-
-    class Person {
-
-        constructor (name) {
-
-            this.name = name;
-
-        }
-
-        showName () {
-
-            console.log(this.name)
-
-        }
-
-    }
     
