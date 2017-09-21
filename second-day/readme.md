@@ -33,7 +33,6 @@
 
 -   class语法(类): class的实现是在prototype的基础上的一个语法糖
 
-    // ES5的实现
     function Person(name) {
         this.name = name || 'popinstyle';
     }
@@ -42,7 +41,6 @@
         return this;
     }
 
-    // ES6的实现
     class Person {
         constructor (name) {
             this.name = name;
