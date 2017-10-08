@@ -1,6 +1,5 @@
 # Internship Diary #
 
-* * *
 
 ## The First Day ##
 
@@ -20,3 +19,10 @@
 ## The Fourth Day ##
 
 -   重构后的功能完善
+
+## The Second Week ##
+
+#####  微信H5 #####
+
+-   嵌入视频
+-   基本的布局
